@@ -1,0 +1,8 @@
+{
+  "name": "limva",
+  "description": "Hệ thống AI chấm bài Toán cho học sinh THCS. Tải lên ảnh đề bài và bài làm để nhận chấm điểm chi tiết.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
